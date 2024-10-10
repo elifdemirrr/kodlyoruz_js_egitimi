@@ -9,3 +9,6 @@ userFormDOM.addEventListener('submit', formHandler)
 function formHandler(event) {
     event.preventDefault()
 }
+
+//kontrol edildi sadece main de güncelleme oldu şimdi bu değişikliği önce maine atıp sonra daha önceki ile 
+//birlikte elif branchına çekeceğim merge edeceğim!!
